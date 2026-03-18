@@ -1,3 +1,4 @@
+/* CÓDIGO UTILIZANDO IA COMO AUXILIO DE DESENVOLVIMENTO (JSON) */
 #include <WiFi.h>
 #include <WebServer.h>
 
